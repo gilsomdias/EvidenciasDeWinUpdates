@@ -1,0 +1,16 @@
+# Arquivos gerados em runtime
+WindowsUpdateHistoryState.json
+RuntimeConfig.json
+Integrity.json
+*.tmp
+*.log
+
+# Arquivos de editor
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
